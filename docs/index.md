@@ -214,7 +214,7 @@ plt.show()
 
 
     
-![png](output_12_1.png)
+![png](assets/output_12_1.png)
     
 
 
@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](assets/output_16_0.png)
     
 
 
