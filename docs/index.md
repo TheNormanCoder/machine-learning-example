@@ -1,8 +1,10 @@
-# House Price Predictor from Scratch with NumPy
+# From Linear Regression Fundamentals to a House Price Predictor
 
 In this notebook I build a simple house price predictor from scratch using Python and NumPy.
 
-The goal is not only to make predictions, but also to revisit the core concepts of machine learning step by step:
+This project is the practical continuation of the concepts I introduced in my previous posts on machine learning fundamentals.
+
+The goal is not only to make predictions, but also to revisit and connect the core concepts step by step:
 
 - Supervised Learning
 - Linear Regression
@@ -14,7 +16,7 @@ The goal is not only to make predictions, but also to revisit the core concepts 
 - Feature Scaling
 - Polynomial Regression
 
-This project helped me connect the theory behind machine learning with an actual implementation.
+By implementing everything from scratch, I was able to better understand how these concepts work together in practice.
 
 
 ```python
